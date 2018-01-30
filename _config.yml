@@ -78,26 +78,26 @@ analytics:
 
 # Site Author
 author:
-  name             : "Akram Mohammed, PhD"
+  name             : "Akram Mohammed"
   avatar           : "profile.png"
-  bio              : "Machine Learning Expert✦Data Scientist✦Computational Biologist"
+  bio              : "Machine Learning Expert, Data Scientist, Computational Biologist at University of Nebraska-Lincoln"
   location         : "Lincoln, NE"
-  employer         : "University of Nebraska-Lincoln"
+  employer         : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=DuzpZDEAAAAJ&view_op=list_works&sortby=pubdate"
-  email            :
+  email            : "akrammohd@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "https://www.facebook.com/akram9"
+  facebook         : "akram9"
   foursquare       :
   github           : "akram-mohammed"
-  google_plus      : "https://plus.google.com/+AkramMohammed9"
+  google_plus      : "AkramMohammed9"
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/akrammohammed9"
+  linkedin         : "akrammohammed9"
   orcid            : "http://orcid.org/0000-0001-8093-8637"
   pinterest        : 
   soundcloud       :
